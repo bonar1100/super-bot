@@ -13,7 +13,6 @@ workerStark12: node stark_bot12.js
 workerStark13: node stark_bot13.js
 workerStark14: node stark_bot14.js
 workerStark15: node stark_bot15.js
-workerStark152: node stark_bot152.js
 workerDiscrim: node tag1.js
 workerDiscrim2: node tag2.js
 workerDiscrim3: node tag3.js
